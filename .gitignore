@@ -9,3 +9,7 @@
 .externalNativeBuild
 *.properties
 import-summary.txt
+.idea/
+gradle/
+gradlew.bat
+gradlew
